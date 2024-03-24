@@ -1,0 +1,3 @@
+conert jpg file into webp
+and
+ttf font to WOFF2
